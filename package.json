@@ -2,7 +2,7 @@
   "name": "react-native-reanimated-progress-bar",
   "version": "1.0.1",
   "description": "React Native animated progress bar, using react-native-reanimated",
-  "main": "dist/index.js",
+  "main": "src/index.tsx",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "rm -rf dist && mkdir dist && tsc -p src",
